@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cd /home/buildsrv/builds/$1
+cd /home/buildsrv/build/project2
 
 echo -e "Content-type: text/html\n"
 echo -e "<html>\n\t<body>"
